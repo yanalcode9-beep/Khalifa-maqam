@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://maqam.example.com/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maqam.example.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maqam.example.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maqam.example.com/"/>
+    <image:image>
+      <image:loc>https://maqam.example.com/assets/khalifa-jadallah.webp</image:loc>
+      <image:title>الدكتور خليفة جاد الله — Dr. Khalifa Jadallah</image:title>
+      <image:caption>المشرف على مشروع مَقام — مدخل إلى علم الموسيقا، جامعة النجاح الوطنية</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maqam.example.com/assets/og.jpg</image:loc>
+      <image:title>مَقام — مدخل إلى علم الموسيقا تفاعليًا</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://maqam.example.com/?lang=en</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maqam.example.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maqam.example.com/?lang=en"/>
+  </url>
+</urlset>
