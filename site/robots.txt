@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maqam.example.com/sitemap.xml
+Sitemap: https://khalifa-maqam.vercel.app/sitemap.xml
